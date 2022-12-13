@@ -1,0 +1,23 @@
+{
+  "name": "eslint-config-feryrardacon-ui5",
+  "version": "1.0.0",
+  "description": "ESLint config for ui5 projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FeryrArdacon/eslint-config-feryrardacon-ui5.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig"
+  ],
+  "author": "Patrick Siegmund",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FeryrArdacon/eslint-config-feryrardacon-ui5/issues"
+  },
+  "homepage": "https://github.com/FeryrArdacon/eslint-config-feryrardacon-ui5#readme"
+}
