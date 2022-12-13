@@ -43,6 +43,14 @@ module.exports = {
     "no-irregular-whitespace": "error",
     "no-lonely-if": "warn",
     "no-loop-func": "error",
+    "no-magic-numbers": [
+      "error",
+      {
+        ignoreArrayIndexes: true,
+        ignoreDefaultValues: true,
+        ignore: [0, 1, -1],
+      },
+    ],
     "no-mixed-operators": "error",
     "no-new-func": "error",
     "no-new-object": "error",
