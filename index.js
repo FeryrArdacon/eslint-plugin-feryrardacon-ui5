@@ -1,4 +1,13 @@
 module.exports = {
+  env: {
+    es2021: true,
+    browser: true,
+    jquery: true,
+  },
+  globals: {
+    sap: true,
+    jQuery: true,
+  },
   rules: {
     "array-callback-return": "error",
     "arrow-spacing": "warn",
