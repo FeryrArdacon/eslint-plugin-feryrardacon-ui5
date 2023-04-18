@@ -1,7 +1,7 @@
 {
-  "name": "eslint-config-feryrardacon-ui5",
-  "version": "1.1.0",
-  "description": "ESLint config for ui5 projects",
+  "name": "eslint-plugin-feryrardacon-ui5",
+  "version": "1.0.7",
+  "description": "ESLint plugin for ui5 projects",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -19,8 +19,5 @@
   "bugs": {
     "url": "https://github.com/FeryrArdacon/eslint-config-feryrardacon-ui5/issues"
   },
-  "homepage": "https://github.com/FeryrArdacon/eslint-config-feryrardacon-ui5#readme",
-  "devDependencies": {
-    "eslint-plugin-ui5": "^0.1.0"
-  }
+  "homepage": "https://github.com/FeryrArdacon/eslint-config-feryrardacon-ui5#readme"
 }
