@@ -8,6 +8,7 @@ module.exports = {
     sap: true,
     jQuery: true,
   },
+  extends: ["eslint:recommended", "ui5"],
   rules: {
     "array-callback-return": "error",
     "arrow-spacing": "warn",
@@ -51,7 +52,6 @@ module.exports = {
         ignore: [0, 1, -1],
       },
     ],
-    "no-mixed-operators": "error",
     "no-new-func": "error",
     "no-new-object": "error",
     "no-new-wrappers": "error",
@@ -81,5 +81,10 @@ module.exports = {
     semi: ["error", "always"],
     "space-unary-ops": "error",
     "template-curly-spacing": "warn",
+    "ui5/no-global-id": "error",
+    "ui5/no-global-name": "error",
+    "ui5/no-for-in": "off",
+    "ui5/no-boolean-literal-compare": "off",
+    "ui5/hungarian-notation": "error"
   },
 };
