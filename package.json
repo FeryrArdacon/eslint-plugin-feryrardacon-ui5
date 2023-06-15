@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-feryrardacon-ui5",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "ESLint plugin for ui5 projects",
   "main": "index.js",
   "scripts": {
