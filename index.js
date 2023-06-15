@@ -94,6 +94,7 @@ module.exports = {
         "require-atomic-updates": "error",
         semi: ["error", "always"],
         "space-unary-ops": "error",
+        strict: ["error", "function"],
         "template-curly-spacing": "warn",
       },
     },
