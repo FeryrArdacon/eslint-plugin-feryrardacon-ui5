@@ -1,1 +1,1 @@
-# eslint-config-feryrardacon-ui5
+# eslint-plugin-feryrardacon-ui5

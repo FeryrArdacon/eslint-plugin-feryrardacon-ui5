@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/FeryrArdacon/eslint-config-feryrardacon-ui5.git"
+    "url": "git+https://github.com/FeryrArdacon/eslint-plugin-feryrardacon-ui5.git"
   },
   "keywords": [
     "eslint",
@@ -17,7 +17,7 @@
   "author": "Patrick Siegmund",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/FeryrArdacon/eslint-config-feryrardacon-ui5/issues"
+    "url": "https://github.com/FeryrArdacon/eslint-plugin-feryrardacon-ui5/issues"
   },
-  "homepage": "https://github.com/FeryrArdacon/eslint-config-feryrardacon-ui5#readme"
+  "homepage": "https://github.com/FeryrArdacon/eslint-plugin-feryrardacon-ui5#readme"
 }
